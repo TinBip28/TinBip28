@@ -13,10 +13,9 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,spring,python,docker,git&theme=tokyonight" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,spring,python,docker,git&theme=tokyonight" />
 </p>
+
 ---
 ### 📊 GitHub Stats  
 <p align="center">
