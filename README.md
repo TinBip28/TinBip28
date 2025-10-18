@@ -1,53 +1,55 @@
-<h1 align="center">Hi there 👋, I'm Tín Lê</h1>
-<h3 align="center">Aspiring Software Engineer | Student at VNU</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TinBip28/TinBip28/main/assets/wave.gif" width="30px" height="30px">
+  <span style="color:#00bfff;">QTii 🤡</span>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Student+at+VNU;Love+building+real-world+apps+🚀" alt="Typing SVG" />
+</h3>
 
 ---
 
-### 💫 About Me  
-- 🎯 I’m currently focusing on **Full-Stack Development**  
-- 💡 Tech Stack: **ReactJS**, **NextJS**, **NestJS**, **Spring Boot**, **Python**  
-- 🧠 Currently learning: **System Design**, **Clean Architecture**, and **Scalable Backend**  
-- 💬 Ask me about **web apps**, **APIs**, and **software engineering best practices**  
-- 🎓 Studying at **Vietnam National University (VNU)**  
-- ⚡ Fun fact: I love turning ideas into real products 🚀  
+### 💫 Giới thịu bán thận 😎  
+- 🎓 Sinh viên Trường đại học Khoa học TỰ nhiên - Đại học quốc gia Hà Lội 🫠
+- ⚡ Fun fact: Chill guy 🫠 sợ 🐞
 
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJS" />
+  <img src="https://raw.githubusercontent.com/TinBip28/TinBip28/main/assets/nestjs-icon.svg" width="45" height="45" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
 ---
-
-### 🌱 My Current Goals  
-- 🧩 Build scalable systems with clean architecture  
-- 🌐 Improve my backend & DevOps skills  
-- 🧠 Deepen knowledge in **AI integration** and **distributed systems**  
-- 💼 Prepare for professional **Software Engineer** roles  
-
----
-
-### 📈 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TinBip28&show_icons=true&theme=react&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinBip28&layout=compact&theme=react&hide_border=true" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=TinBip28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinBip28&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TinBip28&theme=onedark&no-frame=true&margin-w=5&row=1" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:your_email@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/t%C3%ADn-l%C3%AA-4ab35b1aa/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luntanson@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
