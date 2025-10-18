@@ -6,7 +6,7 @@
 ---
 
 ### 💫 Giới thịu bán thận 😎  
-- 🎓 Sinh viên Trường đại học Khoa học TỰ nhiên - Đại học quốc gia Hà Lội 🫠
+- 🎓 Sinh viên Trường đại học Khoa học Tự nhiên - Đại học quốc gia Hà Lội 🫠
 - ⚡ Fun fact: Chill guy 🫠 sợ 🐞
 
 ---
