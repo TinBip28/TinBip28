@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,spring,python,docker,git&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,spring,python,docker,git&theme=dark" />
 </p>
 
 ---
