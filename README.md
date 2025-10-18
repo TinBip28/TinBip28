@@ -3,11 +3,6 @@
   <img src="https://raw.githubusercontent.com/TinBip28/TinBip28/main/assets/wave.gif" width="30px" height="30px">
   <span style="color:#00bfff;">QTii 🤡</span>
 </h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Student+at+VNU;Love+building+real-world+apps+🚀" alt="Typing SVG" />
-</h3>
-
 ---
 
 ### 💫 Giới thịu bán thận 😎  
@@ -35,11 +30,6 @@
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=TinBip28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinBip28&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TinBip28&theme=onedark&no-frame=true&margin-w=5&row=1" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me  
@@ -53,5 +43,3 @@
 </p>
 
 ---
-
-⭐️ From [TinBip28](https://github.com/TinBip28)
