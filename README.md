@@ -5,12 +5,6 @@
 </h1>
 ---
 
-### 💫 Giới thịu bán thận 😎  
-- 🎓 Sinh viên Trường đại học Khoa học Tự nhiên - Đại học quốc gia Hà Lội 🫠
-- ⚡ Fun fact: Chill guy 🫠 sợ 🐞
-
----
-
 ### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,spring,python,git&theme=dark" />
