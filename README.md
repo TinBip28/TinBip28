@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/TinBip28/TinBip28/main/assets/wave.gif" width="30px" height="30px">
-  <span style="color:#00bfff;">QTii 🤡</span>
+  <span style="color:#00bfff;">QTii </span>
 </h1>
 ---
 
